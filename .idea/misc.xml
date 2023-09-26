@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/second-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/github-config-server/pom.xml" />
       </list>
     </option>
   </component>

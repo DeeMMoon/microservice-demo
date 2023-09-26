@@ -28,9 +28,12 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>eureka-client</module>
     <module>eureka-server</module>
+    <module>eureka-client</module>
+    <module>second-eureka-client</module>
     <module>api-gateway</module>
+    <module>github-config-server</module>
+
   </modules>
 
   <build>
